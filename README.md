@@ -20,7 +20,7 @@ Golden Museum robbery
 # طريقة التركيب
 
 
-*  1- ضيف هذا الكود في 
+*  1- ضيف هذا لايتمات في 
 qb-core\shared\items.lua
 ```lua
 --ic7
