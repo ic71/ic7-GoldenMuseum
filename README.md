@@ -38,16 +38,20 @@ qb-inventory\html\images
 qb-doorlock/configs
 ```lua
 Config.DoorList['ic7'] = {
+    locked = true,
+    authorizedJobs = { ['police'] = 0 },
+    doorType = 'double',
+    doorLabel = 'ic7',
     doors = {
-        {objHash = 1425919976, objHeading = 306.00003051758, objCoords = vec3(-631.955383, -236.333267, 38.206532)},
-        {objHash = 9467943, objHeading = 306.00003051758, objCoords = vec3(-630.426514, -238.437546, 38.206532)}
+        {objName = -881481405, objYaw = 0.0, objCoords = vec3(-554.572510, -617.887939, 35.073013)},
+        {objName = -881481405, objYaw = 180.00001525879, objCoords = vec3(-556.532288, -617.896790, 35.078335)}
     },
+    doorRate = 1.0,
+    distance = 2,
+    maxDistance = 2.5,
+    lockpick = false,
     audioRemote = false,
     slides = false,
-    authorizedJobs = { ['police']=0 },
-    lockpick = false,
-    maxDistance = 2.5,
-    locked = true,
     --oldMethod = true,
     --audioLock = {['file'] = 'metal-locker.ogg', ['volume'] = 0.6},
     --audioUnlock = {['file'] = 'metallic-creak.ogg', ['volume'] = 0.7},
