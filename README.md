@@ -90,4 +90,5 @@ ps-dispatch\server\sv_dispatchcodes.lua
 ```lua
 ["goldenmuseum"] =  {displayCode = '10-90', description = "Golden Museum Robbery In Progress", radius = 0, recipientList = {'LEO', 'police'}, blipSprite = 124, blipColour = 59, blipScale = 1.5, blipLength = 2, sound = "robberysound", offset = "false", blipflash = "false"},
 ```
+تم انشاء هذا السكربت بواسطة : ic7
 
