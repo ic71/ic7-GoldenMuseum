@@ -15,7 +15,8 @@ Golden Museum robbery
 
 # طريقة التركيب
 
-- 1- ضيف هذا الكود في 
+
+*  1- ضيف هذا الكود في 
 qb-core\shared\items.lua
 ```lua
 --ic7
@@ -28,10 +29,12 @@ qb-core\shared\items.lua
 --ic7
 ```
 
-2- ضيف ملف img في 
+
+* 2- ضيف ملف img في 
 qb-inventory\html\images
 
-3- ضيف هذا الكود في 
+
+* 3- ضيف هذا الكود في 
 qb-doorlock/configs
 ```lua
 Config.DoorList['ic7'] = {
@@ -54,7 +57,8 @@ Config.DoorList['ic7'] = {
 }
 ```
 
-4- ضيف هذا الكود في 
+
+* 4- ضيف هذا الكود في 
 ps-dispatch\client\cl_eventhandlers.lua
 ```lua
 local function goldenmuseum()
