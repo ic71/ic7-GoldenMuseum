@@ -2,7 +2,9 @@
 Golden Museum robbery
 
 # فيديو
-![GoldenMuseum](https://streamable.com/l7etc7)
+
+فيديو: https://streamable.com/l7etc7
+
 
 
 # المتطلبات
