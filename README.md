@@ -1,6 +1,10 @@
 # ic7-GoldenMuseum
 Golden Museum robbery
 
+بإمكانك تغير كل شياء من config.lua
+
+
+
 # فيديو: https://streamable.com/l7etc7
 
 
