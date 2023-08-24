@@ -1,9 +1,7 @@
 # ic7-GoldenMuseum
 Golden Museum robbery
 
-# فيديو
-
-فيديو: https://streamable.com/l7etc7
+# فيديو: https://streamable.com/l7etc7
 
 
 
