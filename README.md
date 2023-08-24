@@ -1,7 +1,7 @@
 # ic7-GoldenMuseum
 Golden Museum robbery
 
-بإمكانك تغير كل شياء من config.lua
+بإمكانك تعديل كل شياء من config.lua
 
 
 
